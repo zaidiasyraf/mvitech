@@ -7,7 +7,8 @@ The answer will be in spring boot app where user can upload the test file to des
 
 Can find the test file here https://github.com/zaidiasyraf/mvitech/blob/8717699a133e5c93b202bd5c8bc5fe11e0ca2f87/test.txt
 
-
+Dependencies
+1. java 1.8
 
 ## How to run
 
