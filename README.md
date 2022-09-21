@@ -9,6 +9,7 @@ Can find the test file here https://github.com/zaidiasyraf/mvitech/blob/8717699a
 
 Dependencies
 1. java 1.8
+2. maven
 
 ## How to run
 
@@ -26,6 +27,7 @@ Dependencies
 ```
 
 #### Should receive the answer in the api response (below is the example when using text.txt)
+answer will me in map where key is line number and value is word count
 
 ```http
 {
